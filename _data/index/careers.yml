@@ -1,29 +1,29 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: NETSOL Technologies
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Nasir started working for NETSOL right after graduation. 
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: June. 2011
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Principal Software Engineer
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Systems Limited
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: After working at NETSOL for 6 years he shifted to Systems Limited. 
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: May. 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Advisory Software Engineer
     i18n: company_b_job
   icon: fa-plus-square
