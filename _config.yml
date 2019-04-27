@@ -10,7 +10,7 @@ url: https://jarrekk.github.io/Jalpc  # url should be 'http://<github_username>.
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  Nasir Ahmad# change following line to your infomation.
+author:  # change following line to your infomation.
   name: Nasir  # Be used at blog posts' author.
   first_name: Nasir   # Be used at index page about me section.
   last_name: Ahmad  # Be used at index page about me section.
